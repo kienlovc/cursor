@@ -8,6 +8,7 @@ Hướng dẫn này giúp bạn cài đặt nhanh chóng và tránh bị auto-up
 
 ## 🎥 Video hướng dẫn cài đặt
 [![Xem video hướng dẫn trên YouTube](https://img.shields.io/badge/YouTube-Video%20Setup-red?logo=youtube&logoColor=white)](https://youtu.be/r62rbotkTO0)
+**Nhấp vào mã xem**
 
 ---
 
