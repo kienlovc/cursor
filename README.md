@@ -12,7 +12,7 @@ Hướng dẫn này giúp bạn cài đặt nhanh chóng và tránh bị auto-up
 ---
 
 ## 1️⃣ Cài đặt bản Cursor Pro 1.3.9
-🔗 **Tải bản 1.3.9** tại: *(điền link tải trực tiếp tại đây)*
+🔗 **Tải bản 1.3.9** tại: *(https://cursor.com/downloads)*
 
 ---
 
