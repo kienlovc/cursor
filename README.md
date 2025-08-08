@@ -1,12 +1,31 @@
-Hướng dẫn sài cursor pro
-YOUTOBE VIDEO SETUP: https://youtu.be/r62rbotkTO0
-b1 cài bản củo pro  1.3.9
-sau đó chạy tool no update ( lưu ý chạy với quyền admin)
-NHAN CTRL+  SHIF +  P để cài extexion
-tai êtxion tại day
-https://github.com/kienlovc/cursor
-key : kienit2005 
-limit : 500 device
-dang la free plant nhe 
-ho bien len pro
-sai all model moi nhat nolimit
+# 🖥️ Hướng Dẫn Cài Đặt & Sử Dụng **Cursor Pro** 🚀
+
+## 📌 Giới thiệu
+**Cursor Pro** là phiên bản nâng cấp của Cursor Editor, cho phép sử dụng **mọi model AI mới nhất** với **không giới hạn**.  
+Hướng dẫn này giúp bạn cài đặt nhanh chóng và tránh bị auto-update về bản thường.
+
+---
+
+## 1️⃣ Cài đặt bản Cursor Pro 1.3.9
+🔗 **Tải bản 1.3.9** tại: *(điền link tải trực tiếp tại đây)*
+
+---
+
+## 2️⃣ Chặn cập nhật tự động
+- Chạy **Tool No Update** *(file đi kèm)*  
+- **Lưu ý:** Nhấn chuột phải → **Run as Administrator** (Chạy với quyền Admin)
+
+---
+
+## 3️⃣ Cài Extension hỗ trợ
+1. Mở Cursor → Nhấn **`CTRL + SHIFT + P`**  
+2. Chọn mục **Install Extension**  
+3. Tải Extension tại: [🌐 GitHub - kienlovc/cursor](https://github.com/kienlovc/cursor)  
+4. Cài vào Cursor
+
+---
+
+## 4️⃣ Kích hoạt Pro
+- **Key kích hoạt:**  
+  ```plaintext
+  kienit2005
